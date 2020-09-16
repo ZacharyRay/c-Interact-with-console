@@ -1,0 +1,12 @@
+/Users/abtion1/Desktop/skole/c#/ConsoleApps/ConsoleTest/bin/Debug/netcoreapp3.1/ConsoleTest.deps.json
+/Users/abtion1/Desktop/skole/c#/ConsoleApps/ConsoleTest/bin/Debug/netcoreapp3.1/ConsoleTest.runtimeconfig.json
+/Users/abtion1/Desktop/skole/c#/ConsoleApps/ConsoleTest/bin/Debug/netcoreapp3.1/ConsoleTest.runtimeconfig.dev.json
+/Users/abtion1/Desktop/skole/c#/ConsoleApps/ConsoleTest/bin/Debug/netcoreapp3.1/ConsoleTest.dll
+/Users/abtion1/Desktop/skole/c#/ConsoleApps/ConsoleTest/bin/Debug/netcoreapp3.1/ConsoleTest.pdb
+/Users/abtion1/Desktop/skole/c#/ConsoleApps/ConsoleTest/obj/Debug/netcoreapp3.1/ConsoleTest.csprojAssemblyReference.cache
+/Users/abtion1/Desktop/skole/c#/ConsoleApps/ConsoleTest/obj/Debug/netcoreapp3.1/ConsoleTest.AssemblyInfoInputs.cache
+/Users/abtion1/Desktop/skole/c#/ConsoleApps/ConsoleTest/obj/Debug/netcoreapp3.1/ConsoleTest.AssemblyInfo.cs
+/Users/abtion1/Desktop/skole/c#/ConsoleApps/ConsoleTest/obj/Debug/netcoreapp3.1/ConsoleTest.csproj.CoreCompileInputs.cache
+/Users/abtion1/Desktop/skole/c#/ConsoleApps/ConsoleTest/obj/Debug/netcoreapp3.1/ConsoleTest.dll
+/Users/abtion1/Desktop/skole/c#/ConsoleApps/ConsoleTest/obj/Debug/netcoreapp3.1/ConsoleTest.pdb
+/Users/abtion1/Desktop/skole/c#/ConsoleApps/ConsoleTest/obj/Debug/netcoreapp3.1/ConsoleTest.genruntimeconfig.cache
